@@ -13,7 +13,7 @@ tsc --watch
 Then run a local filesystem HTTP server:
 
 ```
-node_modules/http-server/bin/http-server
+live-server
 ```
 
-And visit [http://localhost:8080](http://localhost:8080)
+This will open your browser with the app running
